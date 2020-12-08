@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+	
+body {
+		background-color: #dbf6e9;
+	}
+
+hr {
+	height: 0px;
+	width: 9%;
+	border-style: none;
+	border-bottom-color: #9DDFD3;
+	border-bottom-style: dotted;
+	border-bottom-width: 10px;
+
+	}
+
+
+h1, h3 {
+	color: #31326f;
+}
+
+
+.titre:hover {
+	background-color: #ea97ad;
+}
+
